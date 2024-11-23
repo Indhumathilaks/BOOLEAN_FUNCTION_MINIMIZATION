@@ -52,6 +52,11 @@ endmodule
 **Output:**
 
 **RTL**
+![Screenshot 2024-11-23 190504](https://github.com/user-attachments/assets/676561b7-fcbf-4b57-a8dd-0601f94678c8)
+![Screenshot 2024-11-23 190525](https://github.com/user-attachments/assets/777dff37-01b3-413a-84ba-e8115f4416ab)
+
+
+**RTL**
 
 ![Screenshot 2024-11-23 182720](https://github.com/user-attachments/assets/99900f3a-0052-436e-92d4-a95ef5953873)
 
